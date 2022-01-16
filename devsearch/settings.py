@@ -21,7 +21,7 @@ SECRET_KEY = os.environ.get('SECURITY_KEY')
 DEBUG = True
 
 # ALLOWED_HOSTS = ['localhost','127.0.0.1',]
-ALLOWED_HOSTS = ['https://devhubsearch.herokuapp.com', ]
+ALLOWED_HOSTS = ['devhubsearch.herokuapp.com', ]
 
 
 # Application definition
