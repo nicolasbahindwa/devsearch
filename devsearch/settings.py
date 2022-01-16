@@ -194,6 +194,7 @@ STATICFILES_DIRS = [
 ]
 
 # MEDIA_ROOT = os.path.join(BASE_DIR, 'static/images')
+# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 # (env) PS F:\Python_Programming\2022 python and Django\devproject\devsearch> python manage.py collectstatic
 
