@@ -18,7 +18,7 @@ SECRET_KEY = os.environ.get('SECURITY_KEY')
 # SECRET_KEY = config('SECURITY_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # ALLOWED_HOSTS = ['localhost','127.0.0.1',]
 ALLOWED_HOSTS = ['devhubsearch.herokuapp.com', ]
