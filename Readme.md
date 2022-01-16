@@ -1,3 +1,20 @@
+======================= WELCOME TO DEVELOPER HUB SEARCH =====================================================================
+This is a simple platform where developer can write about their project and receive comments and votes.
+
+This project was build in Django.
+
+to run this project on your localmachine: - 
+1. create a Virtual environment 
+2. install the dependencies from the requirements.txt
+3. run the migration
+4. run the project.
+5.
+
+You can access record using our build in api:
+endpoint formats: http://127.0.0.1:8000/api/users/
+
+
+
 ==== QUERIES ===================
 
 (env) PS F:\Python_Programming\2022 python and Django\devproject\devsearch> python manage.py shell
