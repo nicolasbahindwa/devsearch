@@ -11,7 +11,8 @@ to run this project on your localmachine: -
 5.
 
 You can access record using our build in api:
-endpoint formats: http://127.0.0.1:8000/api/users/
+endpoint formats: http://127.0.0.1:8000/api/users/,  https://devhubsearch.herokuapp.com/api/projects/
+
 
 
 
