@@ -15,7 +15,7 @@ def createProfile(sender, instance, created, **kwargs):
             name=user.first_name
         )
         subject = 'Welcome to developer search'
-        Message = 'Thanks joining the team of developer world wide'
+        Message = 'Thanks for joining the team of developer world wide. we hope you enjoy coding with us.'
 
         send_mail(
             subject,
